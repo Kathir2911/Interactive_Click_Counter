@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  transition: background 0.3s, color 0.3s;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #f0f0f0;
+}
+
+body.dark header {
+  background: #222;
+  color: #fff;
+}
+
+.controls label, .controls select, .controls button {
+  margin-left: 10px;
+  font-size: 1rem;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+#counterDisplay {
+  font-size: 6rem;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+}
+
+#incrementBtn {
+  background-color: #28a745;
+  color: white;
+}
+
+#resetBtn {
+  background-color: #dc3545;
+  color: white;
+}
+
+/* Theme toggling */
+body.light {
+  background: #fff;
+  color: #000;
+}
+
+body.dark {
+  background: #121212;
+  color: #fff;
+}
