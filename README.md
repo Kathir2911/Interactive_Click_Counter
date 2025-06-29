@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Interactive Click Counter
 
 A simple, elegant click counter web application with customizable themes and fonts. Perfect for tracking counts, keeping score, or just having fun clicking!
@@ -168,7 +167,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ⭐ If you found this project helpful, please give it a star on GitHub!
 
 🐛 Found a bug? Have a suggestion? [Open an issue](https://github.com/Kathir2911/Interactive_Click_Counter/issues)
-=======
-# Interactive_Click_Counter
-Week 4 Internship Project
->>>>>>> 5f799221935e5ed536ebbd42d3ea95ffd6a82c
+
