@@ -12,7 +12,7 @@ A simple, elegant click counter web application with customizable themes and fon
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Interactive Click Counter](https://github.com/Kathir2911/Interactive_Click_Counter)
+Check out the live demo: [Interactive Click Counter](https://kathir2911.github.io/Interactive_Click_Counter/)
 
 ## 📸 Screenshots
 
